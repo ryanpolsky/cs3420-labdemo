@@ -1,9 +1,6 @@
-def greetings(msg):
-    print(msg)
-
-
+from helper import *
 
 if __name__ == '__main__':
-   greeints("Hello World")
+   greetings("Hello World")
 
 

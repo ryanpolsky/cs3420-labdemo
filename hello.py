@@ -1,5 +1,9 @@
+def greetings(msg):
+    print(msg)
+
+
 
 if __name__ == '__main__':
-   print("Hello World")
+   greeints("Hello World")
 
 
